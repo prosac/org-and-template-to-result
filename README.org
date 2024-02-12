@@ -13,3 +13,7 @@ Open an org-mode file with a top level structure similar to the example ~data.or
 * Future
 
 As expressed earlier, if I am motivated I might evolve this to an emacs package. If anyone likes it and wants to help: pull requests welcome!
+
+* Q&A
+** Q: But you already can export to latex out of the box with the right packages
+*** A: Yes, but I want to use fancy templates.
