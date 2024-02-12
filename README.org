@@ -1,0 +1,15 @@
+* About
+
+An experiment to fill a template file from an org-mode structure. Might evolve into an emacs package later. The main purpose is to be able to use structured data from my org-mode notes and fill latex templates for further export from it.
+
+* Install
+
+As of now this is just a plain elisp file. So simply eval it in your emacs.
+
+* Usage
+
+Open an org-mode file with a top level structure similar to the example ~data.org~ and call the function ~org-and-template-to-result~. The provided example tempate is a ~.tex~ file. That is because I am planning to use structured data from my org-mode (org-roam) files as input to latex templates to generate documents from my "external brain". You can use it with what ever plain text temaplate and do what suits you.
+
+* Future
+
+As expressed earlier, if I am motivated I might evolve this to an emacs package. If anyone likes it and wants to help: pull requests welcome!
