@@ -16,4 +16,6 @@ As expressed earlier, if I am motivated I might evolve this to an emacs package.
 
 * Q&A
 ** Q: But you already can export to latex out of the box with the right packages
-*** A: Yes, but I want to use fancy templates.
+- A: Yes, but I want to use fancy templates.
+** Q: Do you know any elisp?
+-  A: No. Not really, but with the help of an LLM I was able to hack something together that looks like a start.
